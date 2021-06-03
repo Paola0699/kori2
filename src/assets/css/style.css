@@ -358,7 +358,7 @@
     left: 15px;
     padding: 10px 0;
     border-radius: 8px;
-    background-color: #fff;
+    background-color: #000;
     overflow-y: auto;
     transition: 0.3s;
   }
@@ -370,11 +370,11 @@
   .navbar-mobile a {
     padding: 10px 20px;
     font-size: 15px;
-    color: #0205a1;
+    color: #fff;
   }
   
   .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-    color: #3f43fd;
+    color: rgba(0, 112, 184, 0.9);
   }
   
   .navbar-mobile .getstarted {
