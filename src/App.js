@@ -247,7 +247,7 @@ function App() {
 
       <div className="section">
         <div id='hero' style={{ zIndex: '100' }}>
-          <h1><b style={{ fontSize: '100px' }}>Kōri</b> <br /><span>CONEXIONANDO</span> AL MUNDO</h1>
+          <h1 style={{textAlign:'center'}}><b style={{ fontSize: '100px' }}>Kōri</b> <br /><span>CONEXIONANDO</span> AL MUNDO</h1>
           <div className="text-center text-lg-start">
             <a href="#contact" className="btn-get-started scrollto">Contáctanos</a>
           </div>
