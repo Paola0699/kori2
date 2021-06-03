@@ -430,7 +430,7 @@ function App() {
                   <div className="phone">
                     <i className="bi bi-phone"></i>
                     <h4 style={{ textAlign: 'left' }}>Teléfono:</h4>
-                    <p style={{ textAlign: 'left' }}>771 240 9254</p>
+                    <p style={{ textAlign: 'left' }}>771 240 9254 <br/> 771 161 5148 <br/> 771 162 7872 <br/> 771 404 3037</p>
                   </div>
 
                 </div>
